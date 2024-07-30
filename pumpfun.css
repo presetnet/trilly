@@ -36,7 +36,7 @@ a {
     text-decoration: none;
 }
 .menu li a:hover, .menu li a:focus {
-    background-color: rgb(255, 0, 0);
+    background-color: rgb(230, 233, 7);
 }
 .social-media {
     display: flex;
